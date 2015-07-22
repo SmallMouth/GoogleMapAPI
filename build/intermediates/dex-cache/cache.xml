@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/pre-dexed/debug/classes-24c2a806de884068e7240b4fecae94cffc61bc27.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/pre-dexed/debug/classes-1b9e241307050c8a58c7a36ceb7cde9753923928.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/pre-dexed/debug/classes-1590b5c794239f719e25a2278474cffea960716c.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/pre-dexed/debug/classes-71881245c271975bb8ffc1d9d448536409fad972.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/pre-dexed/debug/classes-71f1e35fa410077690c955fca0007e68c6b7bba0.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/pre-dexed/debug/classes-736d913d518562fc16cdd3b29a984698a161c278.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/pre-dexed/debug/classes-f5b71fb032b3e8e655fabcedb110927f968cb971.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/pre-dexed/debug/classes-9b9432ce933b83b0168b64ca214e6c6d54315d84.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/pre-dexed/debug/classes-72d90b705c690f4d2d3c09f3957b64593307a29e.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-b07861c37cd1e0af0d12421179fda1164d6ea201.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-03daec37840f3a6b6c2512bac66cf6000e26d85d.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/pre-dexed/debug/classes-e3fbaf9b9070d32d5eb4591dc7f230a6529ce11e.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/pre-dexed/debug/classes-0b185bbfb1bdd96b5261e5532ac4d163b94567e5.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/pre-dexed/debug/classes-4558aafb1090f5483689160070b57e58c6ce835f.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/pre-dexed/debug/classes-4012489f9cc85e1ae1fec9ec54fae7456feee4c7.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/pre-dexed/debug/classes-708f7f4f96d2b898694c905a8cd7af6bf591cb70.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/pre-dexed/debug/classes-b50dc56b20f7e2fc27aaa6afc1662165d56782fc.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/pre-dexed/debug/classes-e30d7a068fffa2c142a9cf6d22bfb4abc32c0f1d.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/pre-dexed/debug/classes-a23481e09d193ef88fa1ab20671e2e85e93c3d3d.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/pre-dexed/debug/classes-3f99b6247e7ea209de6e8cd3c406082d3d499051.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/pre-dexed/debug/classes-1e6686aa0e5b1a0d80a1675f049fc5f6b3061dbb.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/pre-dexed/debug/classes-a712c7ca21bfc53a4b8d6581c64ec01892ec6416.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/pre-dexed/debug/classes-2b7a1eb4d306728867070ab4eea3de3e5cc662cd.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/pre-dexed/debug/classes-c8850f47310e88584f4eebb6ba716edc267e9431.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/pre-dexed/debug/classes-6b6f5540d629c502215c35701e796678b51b0735.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/pre-dexed/debug/classes-ac1c45e8d2efb6bb10d7d2320a31d1a29624ff99.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-5e033b06aedb464a5817d14d64b7de893ef20547.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/pre-dexed/debug/classes-386795bbf08cb9ac8c15d501dc8af0a5b07d2c42.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-eb1444b61e0f00f900a161002547820bc314c602.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/pre-dexed/debug/classes-e392e83da204a91828e4ac5864b1c14f2c554ca8.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/pre-dexed/debug/classes-0aaf4bb27fc296373a0cbe3daf5529bb1d53a4b0.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/pre-dexed/debug/classes-f2ae0ab73e25d81af9aa2133ea5385f1704a5bfb.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/pre-dexed/debug/classes-3742a877f07b05b3fecbee6671b2e6220ce79462.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/pre-dexed/debug/classes-4bbdea29dd379657c7a227460c8c52bfd6966a60.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/pre-dexed/debug/classes-1da11db79a1c3b331166048acfda4e3a56a39732.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1-6c25fcfaf461006f3d4f2038b4c21d7c8b84b34f.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/pre-dexed/debug/classes-bf2af492ac153d182da76d25b7525c83ff2fbaa6.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/pre-dexed/debug/classes-4c4376e726cda05add3272ba348fdd2650066343.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/pre-dexed/debug/classes-c2275ca1f8b26c4041430399a59c6621cb44717e.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/pre-dexed/debug/classes-e484bf6f24ad7b6a81d5a9ce0c3e400f0857e5de.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/pre-dexed/debug/classes-b1527e571ce3459c84da9c2d3cadc11e7afdee63.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/pre-dexed/debug/classes-baa633349a01d53fd93f73c12e0b6e005440bd5e.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/pre-dexed/debug/classes-07244a54ca24079198acea4c817e5eed1f04ec36.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/pre-dexed/debug/classes-fdbec8ebbb59558406c24c102c0577a7e04c4427.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/pre-dexed/debug/classes-51355bc80d7f6dbacb063f229daef4ea06f0880a.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/pre-dexed/debug/classes-428d623441d4dc9413a7ec37a5595ee5efeea0fd.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/pre-dexed/debug/classes-7d0fbbcf646473896867d5c0ebbd72e53f13d702.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/pre-dexed/debug/classes-70a392e6f7cf07ca6a3fa33f5aaaa82229f1ba96.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/pre-dexed/debug/classes-1a14c8149675138855b52c40af7a9ef5cc79be12.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/pre-dexed/debug/classes-0aab8ea9be1398a2977f4288d1a2bb760cd5d72a.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/SmallMouth/Documents/Github/Google-Map-API/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-a4d0c3a8d9a07909d3d99dea6bc5130403d22196.jar" />
+    </item>
+    <item
+        jar="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/Users/SmallMouth/Documents/Github/GoogleMapAPI/app/build/intermediates/pre-dexed/debug/classes-de475d27aa6aae6f8f869219df8243c1988ce282.jar" />
+    </item>
+
+</items>
